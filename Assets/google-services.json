@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "209697641178",
+    "project_id": "towerjump-72bb7",
+    "storage_bucket": "towerjump-72bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209697641178:android:3fc92e5e6b67713d858be3",
+        "android_client_info": {
+          "package_name": "com.bardak.towerjump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209697641178-5q25ri5g4ojvanhnattpc83n2vksqm1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyEKiLjMOudII0MhHPtDmVGM7QNlOp_sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209697641178-5q25ri5g4ojvanhnattpc83n2vksqm1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209697641178-sa751ckgo3vfsn7ec61qbua0bef6iin9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bardak.towerjump"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

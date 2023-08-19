@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{D224C4F1-BED2-C964-CA75-BFB2DEC9566A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{96DA9751-9FEE-E028-09C7-06012AC1C95B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuaweiMobileServices.Core", "HuaweiMobileServices.Core.csproj", "{C3FD2221-AD61-DD42-C7C9-8ACBE7CE8CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuaweiMobileServices.Editor", "HuaweiMobileServices.Editor.csproj", "{F6AA1609-5610-6F17-9983-661085B0E4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{2B2595F6-1E31-782E-AF2C-624954A53C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{BFBF7AB3-8475-277E-A35C-AA499250CC07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D224C4F1-BED2-C964-CA75-BFB2DEC9566A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D224C4F1-BED2-C964-CA75-BFB2DEC9566A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D224C4F1-BED2-C964-CA75-BFB2DEC9566A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D224C4F1-BED2-C964-CA75-BFB2DEC9566A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DA9751-9FEE-E028-09C7-06012AC1C95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DA9751-9FEE-E028-09C7-06012AC1C95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DA9751-9FEE-E028-09C7-06012AC1C95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DA9751-9FEE-E028-09C7-06012AC1C95B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FD2221-AD61-DD42-C7C9-8ACBE7CE8CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FD2221-AD61-DD42-C7C9-8ACBE7CE8CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FD2221-AD61-DD42-C7C9-8ACBE7CE8CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FD2221-AD61-DD42-C7C9-8ACBE7CE8CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AA1609-5610-6F17-9983-661085B0E4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AA1609-5610-6F17-9983-661085B0E4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AA1609-5610-6F17-9983-661085B0E4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AA1609-5610-6F17-9983-661085B0E4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2595F6-1E31-782E-AF2C-624954A53C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2595F6-1E31-782E-AF2C-624954A53C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2595F6-1E31-782E-AF2C-624954A53C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2595F6-1E31-782E-AF2C-624954A53C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBF7AB3-8475-277E-A35C-AA499250CC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBF7AB3-8475-277E-A35C-AA499250CC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBF7AB3-8475-277E-A35C-AA499250CC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBF7AB3-8475-277E-A35C-AA499250CC07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

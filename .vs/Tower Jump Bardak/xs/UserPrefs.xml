@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{96149263-0F43-CE31-39A0-E0086DCC09F7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Huawei/Editor/Utils/HMSPluginUpdater.cs">
+    <Files>
+      <File FileName="Assets/manager.cs" Line="26" Column="30" />
+      <File FileName="Assets/firebaseInit.cs" />
+      <File FileName="Assets/Huawei/Editor/Utils/HMSPluginUpdater.cs" Line="86" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tower Jump Bardak" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Huawei" expanded="True">
+                <Node name="Editor" expanded="True">
+                  <Node name="Utils" expanded="True">
+                    <Node name="HMSPluginUpdater.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c4e10eb5-cde1-42bc-ae03-947bedec52ed" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

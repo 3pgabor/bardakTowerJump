@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>209697641178-sa751ckgo3vfsn7ec61qbua0bef6iin9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.209697641178-sa751ckgo3vfsn7ec61qbua0bef6iin9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwcoBhdkEIyAa9qFfWRXKZccxVU51AJ8Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>209697641178</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bardak.towerjump</string>
+	<key>PROJECT_ID</key>
+	<string>towerjump-72bb7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>towerjump-72bb7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:209697641178:ios:6f21c72e17be0692858be3</string>
+</dict>
+</plist>

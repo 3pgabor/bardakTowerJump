@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D224C4F1-BED2-C964-CA75-BFB2DEC9566A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/playerMovement.cs">
+    <Files>
+      <File FileName="Assets/manager.cs" Line="10" Column="21" />
+      <File FileName="Assets/IapManager.cs" />
+      <File FileName="Assets/HighScores.cs" />
+      <File FileName="Assets/LockUIItem.cs" />
+      <File FileName="Assets/DisplayHighscores.cs" />
+      <File FileName="Assets/playerMovement.cs" Line="6" Column="1" />
+      <File FileName="Assets/torchScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/unityAdsScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/jumpBar.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2dJump" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="playerMovement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1ef05ecf-8fbf-422b-9572-32ae0696ca80" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
